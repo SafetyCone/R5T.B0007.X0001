@@ -1,3 +1,7 @@
 R5T.B0007.X0001 - Spacing operations as ISpacingOperator base extensions.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.B0007 - ISpacingOpeator base.
+* R5T.X0005 - Extensions for Roslyn syntax functionality (non-generation).
